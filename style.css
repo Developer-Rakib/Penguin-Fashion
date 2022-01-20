@@ -224,6 +224,12 @@ header{
     .info-img {
         margin-top: 30px;
     }
+    .container{
+        width: 90% !important;
+    }
+    .navbar-brand img{
+        width: 250px;
+    }
 
 }
 @media only screen and (max-width:400px){
@@ -246,8 +252,6 @@ header{
         text-align: center;
     }
    
-    .container{
-        width: 90% !important;
-    }
+    
     
 }
